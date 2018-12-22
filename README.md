@@ -1,1 +1,1 @@
-#Implementacja wzorca obserwator
+# Implementacja wzorca obserwator
