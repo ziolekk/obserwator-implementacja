@@ -1,4 +1,12 @@
 package notify;
 
-public class MobileApp {
+import crypto.BitcoinValueInDollars;
+
+public class MobileApp implements Observer {
+
+    @Override
+    public void update(BitcoinValueInDollars bitcoinValueInDollars) {
+
+    }
 }
+
